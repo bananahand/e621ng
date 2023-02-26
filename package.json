@@ -13,6 +13,7 @@
     "jquery": "^3.6.3",
     "jquery-hotkeys": "^0.2.2",
     "jquery-ui": "^1.12.1",
+    "libvips": "^8.14.0",
     "mini-css-extract-plugin": "^2.3.0",
     "rails-erb-loader": "^5.5.2",
     "sass": "^1.42.1",
